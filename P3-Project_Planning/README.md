@@ -8,6 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+1.Landing Page
+2. Register Page
+3. Login ( User/Admin)
+4. Logout
+5. Add/Delete book
+
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
