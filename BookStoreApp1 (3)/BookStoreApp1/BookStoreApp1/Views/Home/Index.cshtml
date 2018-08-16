@@ -1,0 +1,42 @@
+﻿@model IEnumerable<BookStoreApp1.Models.BookModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>Search by</h2>
+        <ul>
+            <li>Title</li>
+            <li>Author</li>
+        </ul>
+    </div>
+    <div class="col-md-7">
+        <h2>Popular books:</h2>
+        <div>
+            @foreach (var item in Model)
+            {
+                <h1>@Html.DisplayFor(modelItem => item.Title)</h1>
+                <div>
+                    <div>@Html.DisplayFor(modelItem => item.Author)</div>
+                    <div>Desc: @Html.DisplayFor(modelItem => item.Desc)</div>
+                </div>
+                <br /><br />
+                <div>------------------------------------------------------------------</div>
+            }
+        </div>
+    </div>
+    <div class="col-md-2">
+        <h2>Contact Us</h2>
+        <p>
+            Email: blahblah@gmail.com<br />
+            Address:<br />
+            5 The Street<br />
+            The City<br />
+            The State<br />
+            USA<br />
+            +1 888 123-4567<br />
+        </p>
+    </div>
+</div>

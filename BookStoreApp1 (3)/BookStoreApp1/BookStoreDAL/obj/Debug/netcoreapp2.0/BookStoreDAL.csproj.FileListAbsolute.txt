@@ -1,0 +1,18 @@
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\bin\Debug\netcoreapp2.0\BookStoreDAL.deps.json
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\bin\Debug\netcoreapp2.0\BookStoreDAL.dll
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\bin\Debug\netcoreapp2.0\BookStoreDAL.pdb
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.csprojResolveAssemblyReference.cache
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.csproj.CoreCompileInputs.cache
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.AssemblyInfoInputs.cache
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.AssemblyInfo.cs
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.dll
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.pdb
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\bin\Debug\netcoreapp2.0\BookStoreDAL.deps.json
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\bin\Debug\netcoreapp2.0\BookStoreDAL.dll
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\bin\Debug\netcoreapp2.0\BookStoreDAL.pdb
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.csprojAssemblyReference.cache
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.csproj.CoreCompileInputs.cache
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.AssemblyInfoInputs.cache
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.AssemblyInfo.cs
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.dll
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreDAL\obj\Debug\netcoreapp2.0\BookStoreDAL.pdb

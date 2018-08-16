@@ -1,0 +1,18 @@
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\bin\Debug\netcoreapp2.0\BookStoreModels.deps.json
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\bin\Debug\netcoreapp2.0\BookStoreModels.dll
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\bin\Debug\netcoreapp2.0\BookStoreModels.pdb
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.csprojResolveAssemblyReference.cache
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.csproj.CoreCompileInputs.cache
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.AssemblyInfoInputs.cache
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.AssemblyInfo.cs
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.dll
+C:\Users\excl2\source\repos\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.pdb
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\bin\Debug\netcoreapp2.0\BookStoreModels.deps.json
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\bin\Debug\netcoreapp2.0\BookStoreModels.dll
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\bin\Debug\netcoreapp2.0\BookStoreModels.pdb
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.csprojAssemblyReference.cache
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.csproj.CoreCompileInputs.cache
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.AssemblyInfoInputs.cache
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.AssemblyInfo.cs
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.dll
+C:\liftoff-assignments\BookStoreApp1 (3)\BookStoreApp1\BookStoreModels\obj\Debug\netcoreapp2.0\BookStoreModels.pdb
